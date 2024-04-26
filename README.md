@@ -36,15 +36,6 @@ Redux (Optional, for bonus feature)
 
 CSS (for styling)
 
-# Screenshots :-
-
-![image](https://github.com/AbhijeetKrMishra2/React-ChatApp-Coding-Ninjas/assets/139151966/f0732ab1-1675-4611-8c4b-9d10df48a2ca)
-
-![image](https://github.com/AbhijeetKrMishra2/React-ChatApp-Coding-Ninjas/assets/139151966/1f07bd88-5a62-487a-82d9-805b9732fb19)
-
-![image](https://github.com/AbhijeetKrMishra2/React-ChatApp-Coding-Ninjas/assets/139151966/0f0fcde3-ba23-47e0-86ea-33612be5f758)
-
-![image](https://github.com/AbhijeetKrMishra2/React-ChatApp-Coding-Ninjas/assets/139151966/e1a625bf-32dc-4ad2-a871-f543653370aa)
 
 
 
